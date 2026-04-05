@@ -26,8 +26,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanoTech&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight" />
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&row=1&column=6" />
 
 </div>
 
@@ -57,19 +57,19 @@
 
 ### 🔹 Project 1
 📌 Short description  
-🔗 https://github.com/your-username/project1  
+🔗 https://github.com/RosanoTech/project1  
 
 ---
 
 ### 🔹 Project 2
 📌 Short description  
-🔗 https://github.com/your-username/project2  
+🔗 https://github.com/RosanoTech/project2  
 
 ---
 
 ### 🔹 Project 3
 📌 Short description  
-🔗 https://github.com/your-username/project3  
+🔗 https://github.com/RosanoTech/project3  
 
 ---
 
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/RosanoTech">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -97,6 +97,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=RosanoTech&color=blue"/>
 
 </div>
