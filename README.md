@@ -1,33 +1,53 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rosano</h1>
-
-<h3 align="center">💻 A passionate developer building real-world solutions</h3>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</div>
+<h3 align="center">💻 Passionate developer building real-world solutions</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently learning **Web Development**
-- 🧠 Always improving my skills
-- ⚙️ Focused on practical and scalable solutions
-- 🎯 Looking for my first opportunity in tech
+- 👨‍💻 Currently learning Web Development  
+- 🧠 Always improving my skills  
+- ⚙️ Focused on practical solutions  
+- 🎯 Looking for my first opportunity in tech  
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Technical Skills
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" />
 
 </div>
 
@@ -36,7 +56,7 @@
 ## 📂 Featured Projects
 
 ### 🔹 Project 1
-📌 Short description of your project  
+📌 Short description  
 🔗 https://github.com/your-username/project1  
 
 ---
@@ -53,19 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -85,14 +93,10 @@
 
 ---
 
-## 🔥 Fun Fact
-
-> I love building things that actually solve real problems 🚀
-
----
+## 👀 Visitors
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=your-username&color=blue"/>
 
 </div>
