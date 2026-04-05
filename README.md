@@ -24,12 +24,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanoTech&layout=compact&theme=tokyonight"/>
+## 🔥 GitHub Streak
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
