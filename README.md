@@ -54,16 +54,6 @@
   <img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight"/>
 </p>
 
----
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=4"/>
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 🔹 Project 1
