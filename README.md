@@ -59,10 +59,8 @@
 ### 🔹 https://github.com/RosanoTech/jogoDaCobra/blob/main/game.html
 
 
-### 🔹 [Project Name 2](https://github.com/RosanoTech/project2)
+### 🔹 https://github.com/RosanoTech/editorDeTexto
 
-
-### 🔹 [Project Name 3](https://github.com/RosanoTech/project3)
 
 
 ---
