@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,git,github,vscode,linux,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,git,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -54,14 +54,6 @@
 
 ---
 
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 🔹 [Project Name 1](https://github.com/RosanoTech/project1)
@@ -75,18 +67,6 @@
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RosanoTech)
-
-</div>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RosanoTech&color=0e75b6&style=flat&label=Profile+Views" />
 </p>
@@ -97,4 +77,4 @@
 
 ---
 
-**Thanks for visiting!** ✨ Feel free to explore my projects and reach out if you want to collaborate!
+**Thanks for visiting!** ✨ Feel free to explore my projects!
