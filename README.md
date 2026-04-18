@@ -56,14 +56,14 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/RosanoTech/project1)
-**Short description of the project** — technologies used and what you learned.
+### 🔹 https://github.com/RosanoTech/jogoDaCobra/blob/main/game.html
+
 
 ### 🔹 [Project Name 2](https://github.com/RosanoTech/project2)
-**Short description of the project** — technologies used and what you learned.
+
 
 ### 🔹 [Project Name 3](https://github.com/RosanoTech/project3)
-**Short description of the project** — technologies used and what you learned.
+
 
 ---
 
