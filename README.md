@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gustavo Rosano</h1>
-<h3 align="center">🚀 Future Fullstack Developer | Building real-world projects</h3>
+<h3 align="center">🚀 Aspiring Fullstack Developer | Always learning & building</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
@@ -9,15 +9,15 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Learning and building with **Web Development**
-- ⚡ Focused on becoming a **Fullstack Developer**
-- 🎮 Experience with **Roblox Studio (Luau scripting)**
-- 🧩 I enjoy creating practical and interactive solutions
-- 🎯 Currently looking for my **first opportunity in tech**
+- 👨‍💻 Currently studying **Web Development**
+- ⚡ Working towards becoming a **Fullstack Developer**
+- 🎮 Learning and building with **Roblox Studio (Luau scripting)**
+- 🧩 I enjoy creating practical and interactive projects
+- 🎯 Looking for my **first opportunity in tech**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Learning & Using)
 
 <div align="center">
 
@@ -27,20 +27,20 @@
 
 ---
 
-## 🚀 What I'm Learning
+## 🚀 Currently Learning
 
 - ⚛️ React & modern frontend tools  
-- 🌐 Backend development (Node.js & PHP)  
-- 🧠 Logic, problem-solving & clean code  
-- 🔄 Fullstack project structure  
+- 🌐 Backend basics (Node.js & PHP)  
+- 🧠 Programming logic & clean code  
+- 🔄 Fullstack application structure  
 
 ---
 
-## 🎮 Other Skills
+## 🎮 Other Experience
 
 - 🧱 Roblox Studio development  
-- 🎯 Game logic scripting (Luau)  
-- 🛠️ Using Antigravity Editor  
+- 🎯 Game scripting with Luau  
+- 🛠️ Antigravity Editor  
 
 ---
 
@@ -56,10 +56,10 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=4"/>
 </p>
 
 ---
