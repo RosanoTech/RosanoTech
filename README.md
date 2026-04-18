@@ -1,57 +1,55 @@
 <h1 align="center">Hey 👋, I'm Gustavo Rosano</h1>
-<h3 align="center">🚀 Aspiring Fullstack Developer | Always learning & building</h3>
+<h3 align="center">🚀 Aspiring Fullstack Developer | Turning ideas into interactive experiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="coding gif"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently studying **Web Development**
-- ⚡ Working towards becoming a **Fullstack Developer**
-- 🎮 Learning and building with **Roblox Studio (Luau scripting)**
-- 🧩 I enjoy creating practical and interactive projects
-- 🎯 Looking for my **first opportunity in tech**
+- 👨‍💻 Studying **Web Development** and aiming to become a **Fullstack Developer**
+- 🎮 Passionate about **Roblox Studio** (Luau) and game development
+- 🧩 Love building practical, interactive and user-friendly projects
+- ⚡ Always learning new technologies and best practices
+- 🎯 Looking for my **first professional opportunity** in tech
 
 ---
 
-## 🛠️ Tech Stack (Learning & Using)
+## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode,linux&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,git,github,vscode,linux,figma&theme=dark" />
 </div>
 
 ---
 
 ## 🚀 Currently Learning
 
-- ⚛️ React & modern frontend tools  
-- 🌐 Backend basics (Node.js & PHP)  
-- 🧠 Programming logic & clean code  
-- 🔄 Fullstack application structure  
+- ⚛️ **React** + Modern Frontend (Vite, Tailwind, etc.)
+- 🌐 Backend Development (**Node.js** + **Express**)
+- 🗄️ Databases (**MySQL** / **MongoDB**)
+- 🔄 Fullstack project architecture and clean code
 
 ---
 
 ## 🎮 Other Experience
 
-- 🧱 Roblox Studio development  
-- 🎯 Game scripting with Luau  
-- 🛠️ Antigravity Editor  
+- 🧱 **Roblox Studio** Development
+- 🎯 Advanced **Luau** Scripting
+- 🛠️ Antigravity Editor
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,59 +57,44 @@
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RosanoTech&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Project 1
-📌 Short description  
-🔗 https://github.com/RosanoTech/project1  
+### 🔹 [Project Name 1](https://github.com/RosanoTech/project1)
+**Short description of the project** — technologies used and what you learned.
+
+### 🔹 [Project Name 2](https://github.com/RosanoTech/project2)
+**Short description of the project** — technologies used and what you learned.
+
+### 🔹 [Project Name 3](https://github.com/RosanoTech/project3)
+**Short description of the project** — technologies used and what you learned.
 
 ---
 
-### 🔹 Project 2
-📌 Short description  
-🔗 https://github.com/RosanoTech/project2  
-
----
-
-### 🔹 Project 3
-📌 Short description  
-🔗 https://github.com/RosanoTech/project3  
-
----
-
-## 📫 Contact Me
+## 📫 Let's Connect!
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/RosanoTech">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RosanoTech)
 
 </div>
 
 ---
 
-## 👀 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RosanoTech&color=0e75b6&style=flat&label=Profile+Views" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RosanoTech&color=blue"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="thanks gif"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
-</p>
+**Thanks for visiting!** ✨ Feel free to explore my projects and reach out if you want to collaborate!
