@@ -58,7 +58,7 @@
 
 ### 🔹 Project 1
 📌 Short description  
-🔗 https://github.com/RosanoTech/project1  
+🔗 https://github.com/RosanoTech/jogoDaCobra.git 
 
 ---
 
