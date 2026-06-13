@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Gustavo Rosano</h1>
 
 <h3 align="center">
-💻 PHP & JavaScript Developer • Building real-world web applications
+💻 PHP • JavaScript • MySQL Developer
 </h3>
 
 <p align="center">
-Passionate about programming, problem solving and creating useful systems.
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="coding gif"/>
 </p>
 
 ---
@@ -13,38 +13,26 @@ Passionate about programming, problem solving and creating useful systems.
 ## 🧠 About Me
 
 * 👨‍💻 Brazilian developer focused on Web Development
-* 🚀 Building practical projects with PHP, JavaScript and MySQL
+* 🚀 Building practical and real-world applications with PHP, JavaScript and MySQL
 * 🎮 Roblox Studio developer with experience in Luau scripting
 * 📚 Constantly learning new technologies and software architecture
 * 🎯 Looking for my first opportunity as a Junior Developer
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+</p>
 
 * React
 * Node.js
@@ -60,36 +48,35 @@ Passionate about programming, problem solving and creating useful systems.
 
 Administrative system developed for Comunhão Rara Church.
 
-Features:
+**Features:**
 
-* Authentication
-* Member registration
-* Member management
+* Administrator authentication
+* Member registration and management
 * CPF validation
 * ViaCEP integration
-* JWT Authentication
+* JWT authentication
 * PHPMailer integration
 * Administrative dashboard
+* DataTables integration
+* Responsive interface
 
 ### 🔹 Snake Game
 
 Simple browser game developed with HTML, CSS and JavaScript.
 
-Repository:
-https://github.com/RosanoTech/jogoDaCobra
+🔗 https://github.com/RosanoTech/jogoDaCobra
 
 ### 🔹 Text Editor
 
 Web-based text editor project.
 
-Repository:
-https://github.com/RosanoTech/editorDeTexto
+🔗 https://github.com/RosanoTech/editorDeTexto
 
 ---
 
 ## 🎮 Other Experience
 
-* Roblox Studio
+* Roblox Studio Development
 * Luau Scripting
 * Game Systems Development
 * UI Development
@@ -102,6 +89,10 @@ https://github.com/RosanoTech/editorDeTexto
   <img src="https://github-readme-stats.vercel.app/api?username=RosanoTech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RosanoTech&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🎯 Goals for 2026
@@ -111,6 +102,12 @@ https://github.com/RosanoTech/editorDeTexto
 * Build complete Fullstack applications
 * Contribute to open source projects
 * Land my first professional developer role
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RosanoTech&color=0e75b6&style=flat&label=Profile+Views" />
+</p>
 
 ---
 
