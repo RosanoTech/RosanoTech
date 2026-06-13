@@ -101,7 +101,6 @@ Web-based text editor project.
 * Learn Node.js backend development
 * Build complete Fullstack applications
 * Contribute to open source projects
-* Land my first professional developer role
 
 ---
 
